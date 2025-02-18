@@ -1,0 +1,78 @@
+<resources>
+<string name="app_name">notas</string>
+<string name="start_title">Personalize Your Experience</string>
+<string name="start_body">Choose your preferred theme and language to get started with a comfortable, tailored experience that suits your style.</string>
+<string name="language">Language</string>
+<string name="theme">Theme</string>
+<string name="lets_start">Let’s Start</string>
+
+<string name="on_boarding1_title">Find Events That Inspire You</string>
+<string name="on_boarding1_body">Dive into a world of events crafted to fit your unique interests. Whether youre into live music, art workshops, professional networking, or simply discovering new experiences, we have something for everyone. Our curated recommendations will help you explore, connect, and make the most of every opportunity around you.</string>
+
+<string name="on_boarding2_title">Effortless Event Planning</string>
+<string name="on_boarding2_body">Take the hassle out of organizing events with our all-in-one planning tools. From setting up invites and managing RSVPs to scheduling reminders and coordinating details, we’ve got you covered. Plan with ease and focus on what matters – creating an unforgettable experience for you and your guests.</string>
+
+<string name="on_boarding3_title">Connect with Friends &amp; Share Moments</string>
+<string name="on_boarding3_body">Make every event memorable by sharing the experience with others. Our platform lets you invite friends, keep everyone in the loop, and celebrate moments together. Capture and share the excitement with your network, so you can relive the highlights and cherish the memories.</string>
+
+<string name="email">Email</string>
+<string name="password">Password</string>
+<string name="forget_password">Forget Password?</string>
+<string name="forget_password2">Forget Password</string>
+<string name="login">Login</string>
+<string name="do_not_have_account">Don’t Have Account?</string>
+<string name="create_account">Create Account</string>
+<string name="login_with_google">Login With Google</string>
+<string name="name">Name</string>
+<string name="re_password">Re Password</string>
+<string name="already_have_account">Already Have Account?</string>
+<string name="reset_password">Reset Password</string>
+<string name="welcome_back">Welcome Back ✨</string>
+
+<string name="cairo_egypt">Cairo, Egypt</string>
+<string name="all">All</string>
+<string name="sport">Sport</string>
+<string name="birthday">Birthday</string>
+<string name="meeting">Meeting</string>
+<string name="gaming">Gaming</string>
+<string name="eating">Eating</string>
+<string name="holiday">Holiday</string>
+<string name="exhibition">Exhibition</string>
+<string name="work_shop">Work Shop</string>
+<string name="book_club">Book Club</string>
+
+<string name="home">Home</string>
+<string name="map">Map</string>
+<string name="love">Love</string>
+<string name="profile">Profile</string>
+<string name="search_for_event">Search for Event</string>
+
+<string name="light">Light</string>
+<string name="dark">Dark</string>
+<string name="logout">Logout</string>
+<string name="finish">Finish</string>
+<string name="back">Back</string>
+<string name="next">Next</string>
+<string name="or">Or</string>
+<string name="register">Register</string>
+
+<string name="create_event">Create Event</string>
+<string name="edit_event">Edit Event</string>
+<string name="title">Title</string>
+<string name="event_title">Event Title</string>
+<string name="description">Description</string>
+<string name="event_description">Event Description</string>
+<string name="event_details">Event Details</string>
+<string name="event_date">Event Date</string>
+<string name="event_time">Event Time</string>
+<string name="choose_date">Choose Date</string>
+<string name="choose_time">Choose Time</string>
+<string name="location">Location</string>
+<string name="choose_event_location">Choose Event Location</string>
+<string name="add_event">Add Event</string>
+
+<string name="egypt">Egypt</string>
+<string name="cairo">Cairo</string>
+<string name="arabic">Arabic</string>
+<string name="english">English</string>
+</resources>
