@@ -64,5 +64,5 @@ dependencies {
     implementation(libs.androidx.activity.compose)
     implementation(libs.androidx.material.icons.extended)
     implementation(libs.androidx.navigation.compose)
-
+    implementation(libs.androidx.compiler)
 }
